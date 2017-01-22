@@ -82,6 +82,7 @@
     <Compile Include="Assets\MenuScript.cs" />
     <Compile Include="Assets\PlayGame.cs" />
     <Compile Include="Assets\QuitGame.cs" />
+    <Compile Include="Assets\Scripts\IntroEffect.cs" />
     <Compile Include="Assets\Scripts\UI_Menu.cs" />
     <Compile Include="Assets\materials\Scripts\EnemyScript.cs" />
     <Compile Include="Assets\materials\Scripts\Lights.cs" />
